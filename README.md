@@ -19,7 +19,7 @@ A highly configurable and feature-rich shimmer effect library for Roblox UI elem
 ## 📦 Installation
 
 ```lua
-local Shimmer = require(path.to.Shimmer)
+local Shimmer = require(path.to.RoShimmer)
 ```
 
 ## 🚀 Basic Usage
