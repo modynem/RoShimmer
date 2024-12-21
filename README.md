@@ -128,6 +128,9 @@ MIT License - feel free to use in any Roblox project!
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
+## Note
+RoShimmer is an improved version of https://devforum.roblox.com/t/shime-shimmer-for-guiobjects/2272199 by @WinnersTakesAll!
+
 ## 📧 Contact
 
 - Portfolio: https://ahmedsayedv2.vercel.app
