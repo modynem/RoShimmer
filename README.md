@@ -1,4 +1,4 @@
-# 🌟 Shimmer
+# 🌟 RoShimmer
 A highly configurable and feature-rich shimmer effect library for Roblox UI elements.
 
 ## ✨ Features
@@ -19,18 +19,18 @@ A highly configurable and feature-rich shimmer effect library for Roblox UI elem
 ## 📦 Installation
 
 ```lua
-local Shimmer = require(path.to.RoShimmer)
+local RoShimmer = require(path.to.RoShimmer)
 ```
 
 ## 🚀 Basic Usage
 
 ```lua
 -- Create a basic shimmer effect
-local shimmer = Shimmer.new(yourGuiObject)
+local shimmer = RoShimmer.new(yourGuiObject)
 shimmer:Play()
 
 -- Create a customized shimmer effect
-local shimmer = Shimmer.new(yourGuiObject, {
+local shimmer = RoShimmer.new(yourGuiObject, {
     time = 1.5,
     gradientRotation = 45,
     shimmerColor = Color3.new(1, 1, 1),
@@ -79,7 +79,7 @@ local config = {
     zIndex = 1
 }
 
-local shimmer = Shimmer.new(yourGuiObject, config)
+local shimmer = RoShimmer.new(yourGuiObject, config)
 ```
 
 ## 🎮 Methods
